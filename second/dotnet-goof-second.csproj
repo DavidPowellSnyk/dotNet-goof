@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Scripts\jquery-3.7.1.js" />
+    <PackageReference Include="System.Management.Automation" Version="6.1.0" />
   </ItemGroup>
 
 </Project>
