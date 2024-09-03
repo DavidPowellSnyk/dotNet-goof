@@ -6,6 +6,7 @@
     <RootNamespace>dotNet_goof</RootNamespace>
   </PropertyGroup>
 
+
   <ItemGroup>
     <PackageReference Include="System.Management.Automation" Version="6.1.0" />
   </ItemGroup>
